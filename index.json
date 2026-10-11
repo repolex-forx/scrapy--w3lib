@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "w3lib",
+  "versions": [
+    {
+      "commit": "ade4b62e55da45a8e5ead6ed21dcdedd018b9672",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:12:26.008959+00:00"
+    }
+  ]
+}
