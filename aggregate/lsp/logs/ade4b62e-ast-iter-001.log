@@ -1,0 +1,7 @@
+[2026-10-11T02:10:58Z] === AST ITERATION 1 START | repo=scrapy/w3lib sha=ade4b62e ===
+[2026-10-11T02:10:58Z] [iter=1] PHASE START: ast repo=scrapy/w3lib sha=ade4b62e
+[2026-10-11T02:10:58Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T02:11:26Z] [iter=1] AST chunks built count=1 triples=351224
+[2026-10-11T02:11:26Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/ade4b62e55da45a8e5ead6ed21dcdedd018b9672/.complete
+[2026-10-11T02:11:26Z] [iter=1] PHASE END: ast elapsed_s=28 elapsed_min=0.5
+[2026-10-11T02:11:26Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
